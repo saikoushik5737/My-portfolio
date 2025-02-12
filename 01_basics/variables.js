@@ -4,7 +4,7 @@ var accountPassword = "11223344"
 accountCity = "Hyderabad"
 let accountState;
 
-// accountId = 2 //Not allowed
+// accountId = 2 //Not allowed 
 
 console.log(accountId);
 accountEmail = "sai@gmail.com"
