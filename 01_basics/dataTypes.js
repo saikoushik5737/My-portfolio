@@ -13,7 +13,7 @@ let state = null
 
 console.log(typeof null);
 console.log(typeof undefined);
-
+console.log(typeof name);
 
 
 /*
