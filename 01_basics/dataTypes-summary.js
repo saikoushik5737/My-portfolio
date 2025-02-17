@@ -41,3 +41,9 @@ const myFunction = function() {
 }
 
 console.log(typeof anotherId);
+
+//****************************************************************//
+
+//Stack (primitive datatypes), Heap (non primitive datatypes)
+
+let myYoutubeName = "hiteshchoudhary.com"
