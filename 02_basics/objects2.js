@@ -56,4 +56,28 @@ const user = [
 // console.log(Object.entries(tinderUser));     //GETS KEY VALUE PAIRS IN AN ARRAY
 
 
-console.log(tinderUser.hasOwnProperty("isLoggedIn"));
+// console.log(tinderUser.hasOwnProperty("isLoggedIn"));
+
+// OBJECT DESTRUCTURING
+
+const course = {
+    courseName: "JS in Hindi",
+    price: "999",
+    courseInstructor: "Hitesh"
+}
+
+const {courseInstructor: instructor} = course
+
+// console.log(instructor);
+
+// {
+//     "name": "Hitesh",
+//     "courseName": "JS in Hindi",
+//     "price": "free"
+// }
+
+[
+    {},
+    {},
+    {}
+]
